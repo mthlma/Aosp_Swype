@@ -1,0 +1,6 @@
+id=AospSwype
+name=Install swype libs for AOSP Keyboard
+version=v1.0
+versionCode=1.0
+author=mthlma
+description=Installs gesture typing library (libjni_latinimegoogle.so). Please enable gesture typing in the keyboard settings.
